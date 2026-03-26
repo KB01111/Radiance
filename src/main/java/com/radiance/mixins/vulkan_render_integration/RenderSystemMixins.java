@@ -62,7 +62,7 @@ public class RenderSystemMixins {
             case "position_color", "rendertype_gui", "rendertype_gui_overlay",
                  "rendertype_gui_text_highlight", "rendertype_gui_ghost_recipe_overlay",
                  "rendertype_lines" -> 1;
-            case "position_tex_color", "rendertype_lightning" -> 2;
+            case "position_tex_color", "position_color_tex", "rendertype_lightning" -> 2;
             case "rendertype_text", "rendertype_text_background",
                  "rendertype_text_background_see_through", "rendertype_text_intensity",
                  "rendertype_text_intensity_see_through", "rendertype_text_see_through",
